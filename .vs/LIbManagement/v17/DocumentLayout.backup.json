@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|c:\\users\\asus\\desktop\\libmanagement\\libmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|solutionrelative:libmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|c:\\users\\asus\\desktop\\libmanagement\\libmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|solutionrelative:libmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|c:\\users\\asus\\desktop\\libmanagement\\libmanagement\\repository\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|solutionrelative:libmanagement\\repository\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|c:\\users\\asus\\desktop\\libmanagement\\libmanagement\\services\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|solutionrelative:libmanagement\\services\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|C:\\Users\\ASUS\\Desktop\\LIbManagement\\libmanagement\\addoreditbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|solutionrelative:libmanagement\\addoreditbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|C:\\Users\\ASUS\\Desktop\\LIbManagement\\libmanagement\\addoredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|solutionrelative:libmanagement\\addoredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|C:\\Users\\ASUS\\Desktop\\LIbManagement\\libmanagement\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|solutionrelative:libmanagement\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|C:\\Users\\ASUS\\Desktop\\LIbManagement\\libmanagement\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|solutionrelative:libmanagement\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|c:\\users\\asus\\desktop\\libmanagement\\libmanagement\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|solutionrelative:libmanagement\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|C:\\Users\\ASUS\\Desktop\\LIbManagement\\libmanagement\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3ADB86BF-2E00-4C35-9C62-30860DD9A585}|LIbManagement\\LIbManagement.csproj|solutionrelative:libmanagement\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "LIbManagement\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\Form1.cs",
+              "RelativeToolTip": "LIbManagement\\Form1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:36:11.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILoanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\Repository\\ILoanRepository.cs",
+              "RelativeDocumentMoniker": "LIbManagement\\Repository\\ILoanRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\Repository\\ILoanRepository.cs",
+              "RelativeToolTip": "LIbManagement\\Repository\\ILoanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:13:32.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\Services\\LoanRepository.cs",
+              "RelativeDocumentMoniker": "LIbManagement\\Services\\LoanRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\Services\\LoanRepository.cs",
+              "RelativeToolTip": "LIbManagement\\Services\\LoanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:12:54.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddOrEditBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\AddOrEditBook.cs",
+              "RelativeDocumentMoniker": "LIbManagement\\AddOrEditBook.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\LIbManagement\\LIbManagement\\AddOrEditBook.cs [Design]",
+              "RelativeToolTip": "..\\..\\source\\repos\\LIbManagement\\LIbManagement\\AddOrEditBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:06:41.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddOrEdit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\AddOrEdit.cs",
+              "RelativeDocumentMoniker": "LIbManagement\\AddOrEdit.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\AddOrEdit.cs [Design]",
+              "RelativeToolTip": "LIbManagement\\AddOrEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:06:38.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Loan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\Loan.cs",
+              "RelativeDocumentMoniker": "LIbManagement\\Loan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\Loan.cs [Design]",
+              "RelativeToolTip": "LIbManagement\\Loan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:06:34.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "History.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\History.cs",
+              "RelativeDocumentMoniker": "LIbManagement\\History.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\History.cs [Design]",
+              "RelativeToolTip": "LIbManagement\\History.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:06:30.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Members.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\Members.cs",
+              "RelativeDocumentMoniker": "LIbManagement\\Members.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\Members.cs",
+              "RelativeToolTip": "LIbManagement\\Members.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T05:46:19.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Members.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\Members.cs",
+              "RelativeDocumentMoniker": "LIbManagement\\Members.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\Members.cs [Design]",
+              "RelativeToolTip": "LIbManagement\\Members.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T05:46:17.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "LIbManagement\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LIbManagement\\LIbManagement\\Form1.cs [Design]",
+              "RelativeToolTip": "LIbManagement\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:53:59.986Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

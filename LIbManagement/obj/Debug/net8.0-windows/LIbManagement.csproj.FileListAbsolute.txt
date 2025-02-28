@@ -27,7 +27,6 @@ C:\Users\ASUS\Desktop\LIbManagement\LIbManagement\obj\Debug\net8.0-windows\LIbMa
 C:\Users\ASUS\Desktop\LIbManagement\LIbManagement\obj\Debug\net8.0-windows\LIbManagement.Books.resources
 C:\Users\ASUS\Desktop\LIbManagement\LIbManagement\obj\Debug\net8.0-windows\LIbManagement.AddOrEditBook.resources
 C:\Users\ASUS\Desktop\LIbManagement\LIbManagement\obj\Debug\net8.0-windows\LIbManagement.Loan.resources
-C:\Users\ASUS\Desktop\LIbManagement\LIbManagement\obj\Debug\net8.0-windows\LIbManagement.History.resources
 C:\Users\ASUS\Desktop\LIbManagement\LIbManagement\obj\Debug\net8.0-windows\LIbManagement.Points.resources
 C:\Users\ASUS\Desktop\LIbManagement\LIbManagement\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
 C:\Users\ASUS\Desktop\LIbManagement\LIbManagement\obj\Debug\net8.0-windows\LIbManagement.csproj.ResolveComReference.cache
@@ -64,3 +63,5 @@ C:\Users\ASUS\OneDrive\programming\LIbManagement\LIbManagement\obj\Debug\net8.0-
 C:\Users\ASUS\OneDrive\programming\LIbManagement\LIbManagement\obj\Debug\net8.0-windows\LIbManagement.pdb
 C:\Users\ASUS\OneDrive\programming\LIbManagement\LIbManagement\obj\Debug\net8.0-windows\LIbManagement.genruntimeconfig.cache
 C:\Users\ASUS\OneDrive\programming\LIbManagement\LIbManagement\obj\Debug\net8.0-windows\ref\LIbManagement.dll
+C:\Users\ASUS\Desktop\LIbManagement\LIbManagement\obj\Debug\net8.0-windows\LIbManagement.sourcelink.json
+C:\Users\ASUS\Desktop\LIbManagement\LIbManagement\obj\Debug\net8.0-windows\LIbManagement.History.resources

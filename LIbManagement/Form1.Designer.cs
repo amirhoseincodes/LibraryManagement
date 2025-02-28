@@ -106,18 +106,18 @@
             label1.Font = new Font("Tahoma", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label1.Location = new Point(319, 39);
             label1.Name = "label1";
-            label1.Size = new Size(286, 28);
+            label1.Size = new Size(228, 28);
             label1.TabIndex = 5;
-            label1.Text = "اتوماسیون کتاب گستر شاهد";
+            label1.Text = "اتوماسیون کتاب گستر ";
             // 
             // label2
             // 
             label2.AutoSize = true;
             label2.Location = new Point(433, 431);
             label2.Name = "label2";
-            label2.Size = new Size(190, 20);
+            label2.Size = new Size(122, 20);
             label2.TabIndex = 6;
-            label2.Text = "Amirhosein fahimirad-2024";
+            label2.Text = "Amirhosein-2024";
             label2.Click += label2_Click;
             // 
             // label4
@@ -156,7 +156,7 @@
             FormBorderStyle = FormBorderStyle.FixedToolWindow;
             Name = "Form1";
             RightToLeft = RightToLeft.Yes;
-            Text = "اتوماسیون کتاب گستر شاهد";
+            Text = "اتوماسیون کتاب گستر ";
             Load += Form1_Load;
             groupBox1.ResumeLayout(false);
             ResumeLayout(false);
